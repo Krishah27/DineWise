@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DineWise🍽️</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="title">
+        <div class="logo">🍽️</div>
+        <div>
+          <h1>DineWise🍽️</h1>
+          <div class="subtitle">Smart suggestions using Cuisine • Location • Rating</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button id="resetBtn" class="btn secondary">Reset</button>
+      </div>
+    </div>
+
+    <!-- Filters -->
+    <div class="panel">
+      <div class="filters">
+        <div class="field wide">
+          <label class="label">Pick a restaurant you like</label>
+          <select id="liked"></select>
+        </div>
+        <div class="field">
+          <label class="label">City</label>
+          <select id="city"><option value="">Any</option></select>
+        </div>
+        <div class="field">
+          <label class="label">Cuisine</label>
+          <select id="cuisine"><option value="">Any</option></select>
+        </div>
+        <div class="field">
+          <label class="label">Min Rating</label>
+          <select id="minRating">
+            <option value="0">Any</option>
+            <option>3.5</option>
+            <option>4.0</option>
+            <option>4.5</option>
+          </select>
+        </div>
+        <div class="field">
+          <label class="label"> </label>
+          <button id="goBtn" class="btn">Recommend</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div id="results" class="grid"></div>
+    <div id="emptyState" class="footerNote" style="display:none">
+      No results found. Try relaxing filters.
+    </div>
+  </div>
+
+  <script>
+    let DATA = [];
+
+    // ✅ fetch dataset from Flask backend
+    fetch("/data")
+      .then(res => res.json())
+      .then(json => {
+        DATA = json;
+        populateControls();
+        recommend();
+      })
+      .catch(err => console.error("Dataset load error:", err));
+
+    // helpers
+    const unique = arr => [...new Set(arr)];
+    const by = prop => (a,b)=> a[prop]>b[prop]?1:a[prop]<b[prop]?-1:0;
+
+    function tokens(r){
+      return new Set([
+        ...(r.cuisines||[]).map(c=>c.toLowerCase()),
+        ...(r.location?r.location.toLowerCase().split(/\s+/):[])
+      ]);
+    }
+
+    function jaccard(a,b){
+      const A=tokens(a),B=tokens(b);
+      const inter=[...A].filter(x=>B.has(x)).length;
+      const uni=new Set([...A,...B]).size;
+      return uni?inter/uni:0;
+    }
+
+    function score(base, other){
+      if(base.restaurant_name===other.restaurant_name) return -Infinity;
+      let s=jaccard(base,other)*0.7;
+      if(base.location && other.location && base.location.split(",").pop().trim()===other.location.split(",").pop().trim())
+        s+=0.2;
+      s+=(other.rating-3.5)*0.15;
+      return s;
+    }
+
+    function populateControls(){
+      const liked=document.getElementById("liked");
+      const city=document.getElementById("city");
+      const cuisine=document.getElementById("cuisine");
+
+      DATA.sort(by("restaurant_name")).forEach(r=>{
+        const opt=document.createElement("option");
+        opt.value=r.restaurant_name;
+        opt.textContent=`${r.restaurant_name} — ${r.location}`;
+        liked.appendChild(opt);
+      });
+
+      unique(DATA.map(r=>r.location.split(",").pop().trim())).sort().forEach(c=>{
+        const opt=document.createElement("option");
+        opt.value=c; opt.textContent=c; city.appendChild(opt);
+      });
+
+      unique(DATA.flatMap(r=>r.cuisines)).sort().forEach(c=>{
+        const opt=document.createElement("option");
+        opt.value=c; opt.textContent=c; cuisine.appendChild(opt);
+      });
+    }
+
+    function mapsLink(r){
+      return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(r.restaurant_name+" "+r.location)}`;
+    }
+
+    function render(list){
+      const grid=document.getElementById("results");
+      grid.innerHTML="";
+      if(!list.length){
+        document.getElementById("emptyState").style.display="block";return;
+      }
+      document.getElementById("emptyState").style.display="none";
+
+      list.forEach(r=>{
+        const el=document.createElement("div");
+        el.className="card";
+        el.innerHTML=`
+          <div class="rating">⭐ ${r.rating.toFixed(1)}</div>
+          <h3>${r.restaurant_name}</h3>
+          <div class="cuisines">${r.cuisines.join(" • ")}</div>
+          <div class="chips">
+            <span class="badge">📍 ${r.location}</span>
+            <span class="badge">💸 ₹${r.average_price}</span>
+            <span class="badge">⏱ ${r.delivery_time} mins</span>
+          </div>
+          <div class="actions">
+            <a class="btn secondary" href="${mapsLink(r)}" target="_blank">View on Maps</a>
+            <button class="btn" data-like="${r.restaurant_name}">Similar</button>
+          </div>`;
+        grid.appendChild(el);
+      });
+
+      grid.querySelectorAll("button[data-like]").forEach(btn=>{
+        btn.addEventListener("click",e=>{
+          document.getElementById("liked").value=e.currentTarget.dataset.like;
+          recommend();
+          window.scrollTo({top:0,behavior:"smooth"});
+        });
+      });
+    }
+
+    function recommend(){
+      const liked=document.getElementById("liked").value;
+      const city=document.getElementById("city").value;
+      const cuisine=document.getElementById("cuisine").value;
+      const minRating=parseFloat(document.getElementById("minRating").value);
+
+      const base=DATA.find(r=>r.restaurant_name===liked)||DATA[0];
+      let list=DATA.filter(r=>r.restaurant_name!==base.restaurant_name)
+        .map(r=>({...r,_score:score(base,r)}))
+        .sort((a,b)=>b._score-a._score);
+
+      if(city) list=list.filter(r=>r.location.split(",").pop().trim()===city);
+      if(cuisine) list=list.filter(r=>r.cuisines.includes(cuisine));
+      list=list.filter(r=>r.rating>=minRating);
+
+      render(list.slice(0,9));
+    }
+
+    document.getElementById("goBtn").addEventListener("click",recommend);
+    document.getElementById("resetBtn").addEventListener("click",()=>{
+      document.getElementById("city").value="";
+      document.getElementById("cuisine").value="";
+      document.getElementById("minRating").value="0";
+      recommend();
+    });
+  </script>
+</body>
+</html>

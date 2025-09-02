@@ -1,0 +1,2219 @@
+[
+  {
+    "restaurant_name": "Pizza Hut",
+    "rating": 4.3,
+    "cuisines": [
+      "Pizza",
+      "Italian"
+    ],
+    "location": "Viman Nagar, Pune",
+    "average_price": 308,
+    "delivery_time": 27
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 4.0,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "Esplanade, Kolkata",
+    "average_price": 277,
+    "delivery_time": 27
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 3.9,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Salt Lake, Kolkata",
+    "average_price": 746,
+    "delivery_time": 25
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 3.7,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Park Street, Kolkata",
+    "average_price": 244,
+    "delivery_time": 41
+  },
+  {
+    "restaurant_name": "Punjab Grill",
+    "rating": 3.8,
+    "cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "location": "FC Road, Pune",
+    "average_price": 917,
+    "delivery_time": 42
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 4.5,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "T. Nagar, Chennai",
+    "average_price": 405,
+    "delivery_time": 41
+  },
+  {
+    "restaurant_name": "Burger King",
+    "rating": 4.6,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Salt Lake, Kolkata",
+    "average_price": 308,
+    "delivery_time": 25
+  },
+  {
+    "restaurant_name": "Starbucks",
+    "rating": 4.8,
+    "cuisines": [
+      "Cafe",
+      "Beverages"
+    ],
+    "location": "Karol Bagh, Delhi",
+    "average_price": 612,
+    "delivery_time": 41
+  },
+  {
+    "restaurant_name": "Cream Stone",
+    "rating": 3.8,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Kothrud, Pune",
+    "average_price": 815,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "Domino's Pizza",
+    "rating": 4.4,
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "location": "Koramangala, Bangalore",
+    "average_price": 965,
+    "delivery_time": 30
+  },
+  {
+    "restaurant_name": "Haldiram's",
+    "rating": 4.6,
+    "cuisines": [
+      "Indian",
+      "Street Food",
+      "Sweets"
+    ],
+    "location": "Andheri, Mumbai",
+    "average_price": 239,
+    "delivery_time": 43
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 4.5,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Powai, Mumbai",
+    "average_price": 254,
+    "delivery_time": 37
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 4.7,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "HSR Layout, Bangalore",
+    "average_price": 801,
+    "delivery_time": 27
+  },
+  {
+    "restaurant_name": "Naturals Ice Cream",
+    "rating": 4.5,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Adyar, Chennai",
+    "average_price": 527,
+    "delivery_time": 30
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 4.2,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "Janpath, Delhi",
+    "average_price": 915,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "Saravana Bhavan",
+    "rating": 4.0,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Powai, Mumbai",
+    "average_price": 596,
+    "delivery_time": 36
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 4.2,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "T. Nagar, Chennai",
+    "average_price": 236,
+    "delivery_time": 30
+  },
+  {
+    "restaurant_name": "Naturals Ice Cream",
+    "rating": 3.9,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 935,
+    "delivery_time": 26
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 3.6,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "FC Road, Pune",
+    "average_price": 473,
+    "delivery_time": 39
+  },
+  {
+    "restaurant_name": "Domino's Pizza",
+    "rating": 3.6,
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "location": "Viman Nagar, Pune",
+    "average_price": 282,
+    "delivery_time": 44
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 3.6,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Bandra, Mumbai",
+    "average_price": 404,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 4.7,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "Andheri, Mumbai",
+    "average_price": 770,
+    "delivery_time": 23
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 3.6,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Juhu, Mumbai",
+    "average_price": 847,
+    "delivery_time": 34
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.3,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Hitech City, Hyderabad",
+    "average_price": 225,
+    "delivery_time": 22
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 3.7,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 953,
+    "delivery_time": 32
+  },
+  {
+    "restaurant_name": "Saravana Bhavan",
+    "rating": 4.0,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "HSR Layout, Bangalore",
+    "average_price": 389,
+    "delivery_time": 31
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 3.7,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "Powai, Mumbai",
+    "average_price": 599,
+    "delivery_time": 41
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.7,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Howrah, Kolkata",
+    "average_price": 930,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 3.7,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "HSR Layout, Bangalore",
+    "average_price": 979,
+    "delivery_time": 35
+  },
+  {
+    "restaurant_name": "Burger King",
+    "rating": 4.8,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Karol Bagh, Delhi",
+    "average_price": 913,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 4.5,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Viman Nagar, Pune",
+    "average_price": 660,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 4.7,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "Whitefield, Bangalore",
+    "average_price": 914,
+    "delivery_time": 21
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 4.6,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Koramangala, Bangalore",
+    "average_price": 438,
+    "delivery_time": 35
+  },
+  {
+    "restaurant_name": "Haldiram's",
+    "rating": 3.8,
+    "cuisines": [
+      "Indian",
+      "Street Food",
+      "Sweets"
+    ],
+    "location": "Gachibowli, Hyderabad",
+    "average_price": 205,
+    "delivery_time": 30
+  },
+  {
+    "restaurant_name": "Punjab Grill",
+    "rating": 4.6,
+    "cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "location": "Whitefield, Bangalore",
+    "average_price": 972,
+    "delivery_time": 43
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.0,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 802,
+    "delivery_time": 23
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.4,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Bandra, Mumbai",
+    "average_price": 380,
+    "delivery_time": 29
+  },
+  {
+    "restaurant_name": "Subway",
+    "rating": 4.1,
+    "cuisines": [
+      "Healthy",
+      "Sandwiches"
+    ],
+    "location": "Madhapur, Hyderabad",
+    "average_price": 557,
+    "delivery_time": 36
+  },
+  {
+    "restaurant_name": "Starbucks",
+    "rating": 4.8,
+    "cuisines": [
+      "Cafe",
+      "Beverages"
+    ],
+    "location": "Madhapur, Hyderabad",
+    "average_price": 870,
+    "delivery_time": 27
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 4.4,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Saket, Delhi",
+    "average_price": 980,
+    "delivery_time": 28
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 4.3,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "Karol Bagh, Delhi",
+    "average_price": 900,
+    "delivery_time": 25
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 4.6,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "Adyar, Chennai",
+    "average_price": 691,
+    "delivery_time": 21
+  },
+  {
+    "restaurant_name": "Domino's Pizza",
+    "rating": 4.6,
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "location": "Whitefield, Bangalore",
+    "average_price": 884,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 4.5,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "Connaught Place, Delhi",
+    "average_price": 865,
+    "delivery_time": 44
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 4.0,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "MG Road, Bangalore",
+    "average_price": 946,
+    "delivery_time": 31
+  },
+  {
+    "restaurant_name": "Naturals Ice Cream",
+    "rating": 4.3,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Saket, Delhi",
+    "average_price": 416,
+    "delivery_time": 21
+  },
+  {
+    "restaurant_name": "Burger King",
+    "rating": 3.5,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Colaba, Mumbai",
+    "average_price": 214,
+    "delivery_time": 21
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 4.0,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "Gachibowli, Hyderabad",
+    "average_price": 744,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 4.4,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "Secunderabad, Hyderabad",
+    "average_price": 598,
+    "delivery_time": 37
+  },
+  {
+    "restaurant_name": "MTR 1924",
+    "rating": 3.7,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Saket, Delhi",
+    "average_price": 981,
+    "delivery_time": 29
+  },
+  {
+    "restaurant_name": "Subway",
+    "rating": 4.7,
+    "cuisines": [
+      "Healthy",
+      "Sandwiches"
+    ],
+    "location": "Adyar, Chennai",
+    "average_price": 884,
+    "delivery_time": 41
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.8,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "New Town, Kolkata",
+    "average_price": 420,
+    "delivery_time": 31
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 4.7,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Saket, Delhi",
+    "average_price": 622,
+    "delivery_time": 41
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 4.5,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Salt Lake, Kolkata",
+    "average_price": 455,
+    "delivery_time": 22
+  },
+  {
+    "restaurant_name": "Burger King",
+    "rating": 3.7,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 639,
+    "delivery_time": 27
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 3.7,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Colaba, Mumbai",
+    "average_price": 210,
+    "delivery_time": 23
+  },
+  {
+    "restaurant_name": "Cream Stone",
+    "rating": 4.8,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Whitefield, Bangalore",
+    "average_price": 635,
+    "delivery_time": 25
+  },
+  {
+    "restaurant_name": "Naturals Ice Cream",
+    "rating": 3.5,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Viman Nagar, Pune",
+    "average_price": 523,
+    "delivery_time": 32
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 3.6,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Velachery, Chennai",
+    "average_price": 237,
+    "delivery_time": 23
+  },
+  {
+    "restaurant_name": "MTR 1924",
+    "rating": 3.7,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "FC Road, Pune",
+    "average_price": 730,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 4.4,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 552,
+    "delivery_time": 30
+  },
+  {
+    "restaurant_name": "Naturals Ice Cream",
+    "rating": 4.3,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Secunderabad, Hyderabad",
+    "average_price": 767,
+    "delivery_time": 44
+  },
+  {
+    "restaurant_name": "Cream Stone",
+    "rating": 4.5,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Chandni Chowk, Delhi",
+    "average_price": 618,
+    "delivery_time": 31
+  },
+  {
+    "restaurant_name": "Subway",
+    "rating": 3.8,
+    "cuisines": [
+      "Healthy",
+      "Sandwiches"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 803,
+    "delivery_time": 36
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 3.9,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Salt Lake, Kolkata",
+    "average_price": 395,
+    "delivery_time": 32
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 4.4,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 955,
+    "delivery_time": 22
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.2,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Indiranagar, Bangalore",
+    "average_price": 765,
+    "delivery_time": 23
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.3,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Janpath, Delhi",
+    "average_price": 399,
+    "delivery_time": 32
+  },
+  {
+    "restaurant_name": "Naturals Ice Cream",
+    "rating": 3.8,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Madhapur, Hyderabad",
+    "average_price": 413,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "Saravana Bhavan",
+    "rating": 3.6,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Andheri, Mumbai",
+    "average_price": 857,
+    "delivery_time": 28
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 3.9,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Esplanade, Kolkata",
+    "average_price": 674,
+    "delivery_time": 20
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 3.7,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "Koregaon Park, Pune",
+    "average_price": 218,
+    "delivery_time": 36
+  },
+  {
+    "restaurant_name": "Punjab Grill",
+    "rating": 4.3,
+    "cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "location": "HSR Layout, Bangalore",
+    "average_price": 831,
+    "delivery_time": 23
+  },
+  {
+    "restaurant_name": "Starbucks",
+    "rating": 4.3,
+    "cuisines": [
+      "Cafe",
+      "Beverages"
+    ],
+    "location": "Park Street, Kolkata",
+    "average_price": 304,
+    "delivery_time": 34
+  },
+  {
+    "restaurant_name": "Starbucks",
+    "rating": 4.5,
+    "cuisines": [
+      "Cafe",
+      "Beverages"
+    ],
+    "location": "T. Nagar, Chennai",
+    "average_price": 289,
+    "delivery_time": 23
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 4.5,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "Nungambakkam, Chennai",
+    "average_price": 262,
+    "delivery_time": 28
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 4.8,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Howrah, Kolkata",
+    "average_price": 488,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 4.0,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Howrah, Kolkata",
+    "average_price": 681,
+    "delivery_time": 42
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.4,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Karol Bagh, Delhi",
+    "average_price": 259,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 4.1,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "Saket, Delhi",
+    "average_price": 796,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 3.8,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Chandni Chowk, Delhi",
+    "average_price": 433,
+    "delivery_time": 35
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.0,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "HSR Layout, Bangalore",
+    "average_price": 715,
+    "delivery_time": 23
+  },
+  {
+    "restaurant_name": "Cream Stone",
+    "rating": 3.8,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Whitefield, Bangalore",
+    "average_price": 676,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "MTR 1924",
+    "rating": 4.0,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Juhu, Mumbai",
+    "average_price": 207,
+    "delivery_time": 28
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 3.8,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "FC Road, Pune",
+    "average_price": 961,
+    "delivery_time": 43
+  },
+  {
+    "restaurant_name": "Subway",
+    "rating": 4.4,
+    "cuisines": [
+      "Healthy",
+      "Sandwiches"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 397,
+    "delivery_time": 28
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 4.2,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "Juhu, Mumbai",
+    "average_price": 411,
+    "delivery_time": 20
+  },
+  {
+    "restaurant_name": "Subway",
+    "rating": 3.9,
+    "cuisines": [
+      "Healthy",
+      "Sandwiches"
+    ],
+    "location": "Hinjewadi, Pune",
+    "average_price": 299,
+    "delivery_time": 43
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 3.5,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "T. Nagar, Chennai",
+    "average_price": 697,
+    "delivery_time": 41
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 3.7,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Velachery, Chennai",
+    "average_price": 460,
+    "delivery_time": 30
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 4.5,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "Koregaon Park, Pune",
+    "average_price": 210,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 4.6,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Hinjewadi, Pune",
+    "average_price": 606,
+    "delivery_time": 39
+  },
+  {
+    "restaurant_name": "Naturals Ice Cream",
+    "rating": 4.7,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Nungambakkam, Chennai",
+    "average_price": 557,
+    "delivery_time": 21
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.1,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 682,
+    "delivery_time": 43
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 3.8,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Karol Bagh, Delhi",
+    "average_price": 648,
+    "delivery_time": 35
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.4,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Hinjewadi, Pune",
+    "average_price": 236,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "Pizza Hut",
+    "rating": 4.3,
+    "cuisines": [
+      "Pizza",
+      "Italian"
+    ],
+    "location": "Karol Bagh, Delhi",
+    "average_price": 439,
+    "delivery_time": 22
+  },
+  {
+    "restaurant_name": "Haldiram's",
+    "rating": 4.7,
+    "cuisines": [
+      "Indian",
+      "Street Food",
+      "Sweets"
+    ],
+    "location": "Colaba, Mumbai",
+    "average_price": 726,
+    "delivery_time": 25
+  },
+  {
+    "restaurant_name": "Starbucks",
+    "rating": 4.1,
+    "cuisines": [
+      "Cafe",
+      "Beverages"
+    ],
+    "location": "Secunderabad, Hyderabad",
+    "average_price": 436,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "Saravana Bhavan",
+    "rating": 4.3,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Viman Nagar, Pune",
+    "average_price": 663,
+    "delivery_time": 24
+  },
+  {
+    "restaurant_name": "Pizza Hut",
+    "rating": 3.5,
+    "cuisines": [
+      "Pizza",
+      "Italian"
+    ],
+    "location": "Secunderabad, Hyderabad",
+    "average_price": 980,
+    "delivery_time": 34
+  },
+  {
+    "restaurant_name": "Subway",
+    "rating": 4.4,
+    "cuisines": [
+      "Healthy",
+      "Sandwiches"
+    ],
+    "location": "Colaba, Mumbai",
+    "average_price": 607,
+    "delivery_time": 35
+  },
+  {
+    "restaurant_name": "MTR 1924",
+    "rating": 3.8,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Whitefield, Bangalore",
+    "average_price": 590,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "Burger King",
+    "rating": 3.6,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Koramangala, Bangalore",
+    "average_price": 897,
+    "delivery_time": 24
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.7,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Chandni Chowk, Delhi",
+    "average_price": 577,
+    "delivery_time": 29
+  },
+  {
+    "restaurant_name": "Starbucks",
+    "rating": 3.6,
+    "cuisines": [
+      "Cafe",
+      "Beverages"
+    ],
+    "location": "Colaba, Mumbai",
+    "average_price": 332,
+    "delivery_time": 27
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.4,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 587,
+    "delivery_time": 42
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 3.8,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Gachibowli, Hyderabad",
+    "average_price": 953,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.4,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "FC Road, Pune",
+    "average_price": 537,
+    "delivery_time": 44
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.6,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Anna Nagar, Chennai",
+    "average_price": 395,
+    "delivery_time": 43
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.7,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Viman Nagar, Pune",
+    "average_price": 676,
+    "delivery_time": 26
+  },
+  {
+    "restaurant_name": "MTR 1924",
+    "rating": 3.6,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Hinjewadi, Pune",
+    "average_price": 999,
+    "delivery_time": 37
+  },
+  {
+    "restaurant_name": "Domino's Pizza",
+    "rating": 4.5,
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "location": "Powai, Mumbai",
+    "average_price": 522,
+    "delivery_time": 22
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 4.0,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "Karol Bagh, Delhi",
+    "average_price": 593,
+    "delivery_time": 21
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.7,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Chandni Chowk, Delhi",
+    "average_price": 600,
+    "delivery_time": 32
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 4.7,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "T. Nagar, Chennai",
+    "average_price": 315,
+    "delivery_time": 32
+  },
+  {
+    "restaurant_name": "Cream Stone",
+    "rating": 3.8,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Viman Nagar, Pune",
+    "average_price": 496,
+    "delivery_time": 29
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.4,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Andheri, Mumbai",
+    "average_price": 830,
+    "delivery_time": 36
+  },
+  {
+    "restaurant_name": "Saravana Bhavan",
+    "rating": 3.6,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Anna Nagar, Chennai",
+    "average_price": 783,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 3.9,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Andheri, Mumbai",
+    "average_price": 581,
+    "delivery_time": 36
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 3.5,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Powai, Mumbai",
+    "average_price": 809,
+    "delivery_time": 42
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 3.7,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "Hinjewadi, Pune",
+    "average_price": 551,
+    "delivery_time": 43
+  },
+  {
+    "restaurant_name": "Saravana Bhavan",
+    "rating": 4.1,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "FC Road, Pune",
+    "average_price": 982,
+    "delivery_time": 26
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 3.6,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "Madhapur, Hyderabad",
+    "average_price": 678,
+    "delivery_time": 44
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 4.3,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "MG Road, Bangalore",
+    "average_price": 538,
+    "delivery_time": 40
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.5,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Madhapur, Hyderabad",
+    "average_price": 741,
+    "delivery_time": 37
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 3.9,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Chandni Chowk, Delhi",
+    "average_price": 469,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.0,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Colaba, Mumbai",
+    "average_price": 471,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 3.7,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Howrah, Kolkata",
+    "average_price": 232,
+    "delivery_time": 39
+  },
+  {
+    "restaurant_name": "Pizza Hut",
+    "rating": 4.4,
+    "cuisines": [
+      "Pizza",
+      "Italian"
+    ],
+    "location": "Madhapur, Hyderabad",
+    "average_price": 772,
+    "delivery_time": 28
+  },
+  {
+    "restaurant_name": "Burger King",
+    "rating": 4.4,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Secunderabad, Hyderabad",
+    "average_price": 583,
+    "delivery_time": 44
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 3.8,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "T. Nagar, Chennai",
+    "average_price": 986,
+    "delivery_time": 37
+  },
+  {
+    "restaurant_name": "Subway",
+    "rating": 4.2,
+    "cuisines": [
+      "Healthy",
+      "Sandwiches"
+    ],
+    "location": "Powai, Mumbai",
+    "average_price": 979,
+    "delivery_time": 42
+  },
+  {
+    "restaurant_name": "Pizza Hut",
+    "rating": 3.8,
+    "cuisines": [
+      "Pizza",
+      "Italian"
+    ],
+    "location": "Connaught Place, Delhi",
+    "average_price": 735,
+    "delivery_time": 29
+  },
+  {
+    "restaurant_name": "Domino's Pizza",
+    "rating": 3.6,
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "location": "Velachery, Chennai",
+    "average_price": 522,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "Saravana Bhavan",
+    "rating": 4.1,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "MG Road, Bangalore",
+    "average_price": 588,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "Cream Stone",
+    "rating": 4.8,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Gachibowli, Hyderabad",
+    "average_price": 209,
+    "delivery_time": 44
+  },
+  {
+    "restaurant_name": "MTR 1924",
+    "rating": 4.8,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "FC Road, Pune",
+    "average_price": 519,
+    "delivery_time": 37
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.6,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Saket, Delhi",
+    "average_price": 218,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "Naturals Ice Cream",
+    "rating": 3.6,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "T. Nagar, Chennai",
+    "average_price": 821,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "Burger King",
+    "rating": 3.9,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Adyar, Chennai",
+    "average_price": 599,
+    "delivery_time": 44
+  },
+  {
+    "restaurant_name": "Domino's Pizza",
+    "rating": 4.5,
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "location": "Andheri, Mumbai",
+    "average_price": 779,
+    "delivery_time": 29
+  },
+  {
+    "restaurant_name": "Pizza Hut",
+    "rating": 3.6,
+    "cuisines": [
+      "Pizza",
+      "Italian"
+    ],
+    "location": "Anna Nagar, Chennai",
+    "average_price": 472,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 4.4,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Karol Bagh, Delhi",
+    "average_price": 795,
+    "delivery_time": 30
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 3.7,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "Saket, Delhi",
+    "average_price": 931,
+    "delivery_time": 24
+  },
+  {
+    "restaurant_name": "Punjab Grill",
+    "rating": 3.7,
+    "cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "location": "Kothrud, Pune",
+    "average_price": 524,
+    "delivery_time": 26
+  },
+  {
+    "restaurant_name": "Subway",
+    "rating": 4.3,
+    "cuisines": [
+      "Healthy",
+      "Sandwiches"
+    ],
+    "location": "Karol Bagh, Delhi",
+    "average_price": 540,
+    "delivery_time": 41
+  },
+  {
+    "restaurant_name": "Domino's Pizza",
+    "rating": 3.6,
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "location": "Bandra, Mumbai",
+    "average_price": 972,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.3,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Andheri, Mumbai",
+    "average_price": 541,
+    "delivery_time": 31
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 3.8,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "FC Road, Pune",
+    "average_price": 625,
+    "delivery_time": 22
+  },
+  {
+    "restaurant_name": "Burger King",
+    "rating": 4.0,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Park Street, Kolkata",
+    "average_price": 421,
+    "delivery_time": 28
+  },
+  {
+    "restaurant_name": "Saravana Bhavan",
+    "rating": 4.3,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Nungambakkam, Chennai",
+    "average_price": 765,
+    "delivery_time": 39
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.3,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Janpath, Delhi",
+    "average_price": 248,
+    "delivery_time": 38
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 4.5,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "Indiranagar, Bangalore",
+    "average_price": 804,
+    "delivery_time": 31
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.6,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Secunderabad, Hyderabad",
+    "average_price": 786,
+    "delivery_time": 25
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 3.6,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "Hitech City, Hyderabad",
+    "average_price": 270,
+    "delivery_time": 44
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 3.9,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Koramangala, Bangalore",
+    "average_price": 461,
+    "delivery_time": 28
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 4.1,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Nungambakkam, Chennai",
+    "average_price": 935,
+    "delivery_time": 22
+  },
+  {
+    "restaurant_name": "Cream Stone",
+    "rating": 3.8,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Kothrud, Pune",
+    "average_price": 738,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 4.6,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Park Street, Kolkata",
+    "average_price": 262,
+    "delivery_time": 35
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.5,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Nungambakkam, Chennai",
+    "average_price": 913,
+    "delivery_time": 36
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 4.1,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Chandni Chowk, Delhi",
+    "average_price": 442,
+    "delivery_time": 21
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.6,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Powai, Mumbai",
+    "average_price": 546,
+    "delivery_time": 21
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 3.6,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Whitefield, Bangalore",
+    "average_price": 951,
+    "delivery_time": 25
+  },
+  {
+    "restaurant_name": "Saravana Bhavan",
+    "rating": 3.9,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Nungambakkam, Chennai",
+    "average_price": 337,
+    "delivery_time": 26
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 4.7,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "Hitech City, Hyderabad",
+    "average_price": 263,
+    "delivery_time": 26
+  },
+  {
+    "restaurant_name": "Haldiram's",
+    "rating": 4.1,
+    "cuisines": [
+      "Indian",
+      "Street Food",
+      "Sweets"
+    ],
+    "location": "Kothrud, Pune",
+    "average_price": 241,
+    "delivery_time": 37
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.2,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Bandra, Mumbai",
+    "average_price": 912,
+    "delivery_time": 26
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.1,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Secunderabad, Hyderabad",
+    "average_price": 880,
+    "delivery_time": 32
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 3.9,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "Hinjewadi, Pune",
+    "average_price": 257,
+    "delivery_time": 24
+  },
+  {
+    "restaurant_name": "Haldiram's",
+    "rating": 4.0,
+    "cuisines": [
+      "Indian",
+      "Street Food",
+      "Sweets"
+    ],
+    "location": "Salt Lake, Kolkata",
+    "average_price": 973,
+    "delivery_time": 31
+  },
+  {
+    "restaurant_name": "The Bombay Canteen",
+    "rating": 4.3,
+    "cuisines": [
+      "Modern Indian",
+      "Fusion"
+    ],
+    "location": "Banjara Hills, Hyderabad",
+    "average_price": 416,
+    "delivery_time": 22
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.1,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Madhapur, Hyderabad",
+    "average_price": 373,
+    "delivery_time": 20
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 4.4,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "FC Road, Pune",
+    "average_price": 255,
+    "delivery_time": 39
+  },
+  {
+    "restaurant_name": "Saravana Bhavan",
+    "rating": 4.6,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Juhu, Mumbai",
+    "average_price": 619,
+    "delivery_time": 32
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 3.9,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Bandra, Mumbai",
+    "average_price": 430,
+    "delivery_time": 28
+  },
+  {
+    "restaurant_name": "Domino's Pizza",
+    "rating": 3.7,
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "location": "Anna Nagar, Chennai",
+    "average_price": 609,
+    "delivery_time": 31
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 3.7,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Hinjewadi, Pune",
+    "average_price": 219,
+    "delivery_time": 45
+  },
+  {
+    "restaurant_name": "Starbucks",
+    "rating": 4.2,
+    "cuisines": [
+      "Cafe",
+      "Beverages"
+    ],
+    "location": "Viman Nagar, Pune",
+    "average_price": 934,
+    "delivery_time": 40
+  },
+  {
+    "restaurant_name": "MTR 1924",
+    "rating": 4.2,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Howrah, Kolkata",
+    "average_price": 363,
+    "delivery_time": 21
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.7,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Juhu, Mumbai",
+    "average_price": 216,
+    "delivery_time": 22
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.4,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Park Street, Kolkata",
+    "average_price": 371,
+    "delivery_time": 35
+  },
+  {
+    "restaurant_name": "Punjab Grill",
+    "rating": 4.2,
+    "cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "location": "Juhu, Mumbai",
+    "average_price": 812,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 3.7,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Adyar, Chennai",
+    "average_price": 210,
+    "delivery_time": 35
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 4.5,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "Esplanade, Kolkata",
+    "average_price": 811,
+    "delivery_time": 42
+  },
+  {
+    "restaurant_name": "Cream Stone",
+    "rating": 4.1,
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "location": "Hinjewadi, Pune",
+    "average_price": 725,
+    "delivery_time": 31
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "rating": 3.8,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "location": "Nungambakkam, Chennai",
+    "average_price": 733,
+    "delivery_time": 22
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.0,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Kothrud, Pune",
+    "average_price": 801,
+    "delivery_time": 32
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 4.8,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "Bandra, Mumbai",
+    "average_price": 356,
+    "delivery_time": 32
+  },
+  {
+    "restaurant_name": "Punjab Grill",
+    "rating": 4.5,
+    "cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "location": "Janpath, Delhi",
+    "average_price": 443,
+    "delivery_time": 42
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.8,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Bandra, Mumbai",
+    "average_price": 800,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "KFC",
+    "rating": 3.7,
+    "cuisines": [
+      "Chicken",
+      "Fast Food"
+    ],
+    "location": "Adyar, Chennai",
+    "average_price": 403,
+    "delivery_time": 30
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 3.9,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "Adyar, Chennai",
+    "average_price": 739,
+    "delivery_time": 35
+  },
+  {
+    "restaurant_name": "Empire Restaurant",
+    "rating": 3.8,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "location": "Nungambakkam, Chennai",
+    "average_price": 300,
+    "delivery_time": 33
+  },
+  {
+    "restaurant_name": "Wow! Momo",
+    "rating": 4.0,
+    "cuisines": [
+      "Momos",
+      "Tibetan"
+    ],
+    "location": "Koramangala, Bangalore",
+    "average_price": 811,
+    "delivery_time": 25
+  },
+  {
+    "restaurant_name": "Biryani Blues",
+    "rating": 3.7,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Howrah, Kolkata",
+    "average_price": 228,
+    "delivery_time": 40
+  },
+  {
+    "restaurant_name": "Barbeque Nation",
+    "rating": 4.3,
+    "cuisines": [
+      "BBQ",
+      "North Indian",
+      "Buffet"
+    ],
+    "location": "FC Road, Pune",
+    "average_price": 873,
+    "delivery_time": 26
+  },
+  {
+    "restaurant_name": "Paradise Biryani",
+    "rating": 4.5,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "location": "Nungambakkam, Chennai",
+    "average_price": 900,
+    "delivery_time": 37
+  },
+  {
+    "restaurant_name": "Cafe Coffee Day",
+    "rating": 4.8,
+    "cuisines": [
+      "Cafe",
+      "Snacks"
+    ],
+    "location": "Kothrud, Pune",
+    "average_price": 379,
+    "delivery_time": 31
+  },
+  {
+    "restaurant_name": "MTR 1924",
+    "rating": 4.7,
+    "cuisines": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "location": "Andheri, Mumbai",
+    "average_price": 490,
+    "delivery_time": 21
+  }
+]

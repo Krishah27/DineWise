@@ -45,7 +45,7 @@ DineWise/
 Follow these steps to set up the project locally.
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/DineWise.git
+git clone https://github.com/Krishah27/DineWise
 cd DineWise
 
 2️⃣ Create a virtual environment (recommended)
